@@ -1,5 +1,5 @@
 # co2_gapfilling
-This code reproduces the results for XGBoost presented in 'Systematic bias in carbon balance estimates created by a widely-used eddy covariance gap-filling method'
+This code reproduces the results for XGBoost presented in 'A widely-used eddy covariance gap-filling method creates systematic bias in carbon balance estimates'
 
 ## Guidance
 ### Environment
